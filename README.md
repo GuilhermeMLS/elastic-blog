@@ -7,10 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-<b>ElasticBlog</b>
+## ElasticBlog
 A Laravel+Docker API CRUD to learn about ElasticSearch.
 
 <b>API documentation</b>
+
 https://documenter.getpostman.com/view/4919763/SWE6bybX?version=latest
 
 <b>Installation</b>
