@@ -8,7 +8,7 @@ https://documenter.getpostman.com/view/4919763/SWE6bybX?version=latest
 
 <b>Installation</b>
 
-* `$ docker-compose up` to up containers;
+* `$ docker-compose up` to launch containers;
 * `$ docker-compose exec php-fpm php artisan migrate --seed` to create database and insert some test data;
 
 <b> How it works </b>
